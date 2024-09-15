@@ -9,6 +9,7 @@ import hiMessages from './messages/hi.json';
 import ititMessages from './messages/it_IT.json';
 import ptptMessages from './messages/pt_PT.json';
 import ruMessages from './messages/ru.json';
+import boMessages from './messages/bo.json';
 import ukMessages from './messages/uk.json';
 
 const messages = {
@@ -22,6 +23,7 @@ const messages = {
   'it-it': ititMessages,
   'pt-pt': ptptMessages,
   ru: ruMessages,
+  'bo': boMessages,
   uk: ukMessages,
 };
 
