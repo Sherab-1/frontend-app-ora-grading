@@ -23,7 +23,7 @@ const messages = {
   'it-it': ititMessages,
   'pt-pt': ptptMessages,
   ru: ruMessages,
-  'bo': boMessages,
+  bo: boMessages,
   uk: ukMessages,
 };
 
